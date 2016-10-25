@@ -1,12 +1,12 @@
 /*This is the bio section*/
 var bio = {
     "name": 'Jyothsna NS',
-    "role": 'Network Engineer and Wannabe Front End Web developer',
+    "role": 'Front End Web developer',
     "biopic": "https://placeimg.com/197/148/tech",
     "contacts": {
         "email": ' jyothsnans@gmail.com',
         "twitter": '@ Naachchiyaar',
-        "github": ' JyothsnaNS',
+        "github": ' https://github.com/JyothsnaNS/',
         "location": ' India',
         "mobile": ' +91 9480048228'
     },
