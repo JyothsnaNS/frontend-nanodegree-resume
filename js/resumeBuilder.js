@@ -29,7 +29,7 @@ var projects = {
     "projects": [{
         "title": 'at&t - IBM Bluesky',
         "dates": '2013 to 2015',
-        "description": 'Responsible for management of the IBM network infrastructure,performing configuration changes on Cisco routers,switches and Firewalls.Also responsible for reviewing Network Optimization.',
+        "description": 'Responsible for performing configuration changes on Cisco routers,switches and Firewalls.',
         "images": "https://placeimg.com/300/150/tech",
         "location": 'Hyderabad,India'
     }]
